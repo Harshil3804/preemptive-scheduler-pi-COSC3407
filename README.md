@@ -1,2 +1,3 @@
 # preemptive-scheduler-pi-COSC3407
-it is what it is.
+Pre-Emptive Scheduler Project
+Team Setup Completed. 
